@@ -9,6 +9,6 @@ Developed interactive Power BI Dashboard for Adventure Works client.
 - Developed Predictive Analytics.
 
 ### Course Details
-[Microsoft Power BI - Up & Running With Power BI Desktop](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) helped me understand the business intelligence workflow from end-to-end along with the hands-on experience it offers.
+[Microsoft Power BI - Up & Running With Power BI Desktop](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/) helped me understand the business intelligence workflow from end-to-end along with the hands-on experience it offers. It is a really good course for beginners who are new to the domain of BI. ;)
 
-<b><i>I would highly recommend this elegant course to anyone looking to start their journey in Business Intelligence.<b><i>
+<b><i>I would highly recommend this elegant course to anyone looking to start their journey in Business Intelligence and Analytics.<b><i>
